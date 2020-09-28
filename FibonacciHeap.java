@@ -1,6 +1,6 @@
 
-//created by: Ruben Wolhandler  rubenw       342674983
-//            Daniel Malash    danielmalash  208059113
+//created by: Ruben Wolhandler  rubenw       
+//            Daniel Malash    danielmalash  
 
 /**
  * FibonacciHeap
